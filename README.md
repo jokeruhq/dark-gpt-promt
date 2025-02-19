@@ -1,8 +1,10 @@
 # DarkGPT promt
 
-- **Copy the text below and paste it into ChatGPT**
+- **Copy the text below and paste it into DeepSeek**
 - **I am not responsible for any damage caused by the resources I provide**
-- **Access ChatGPT [here](https://chatgpt.com)**
+- **Access DeepSeek [here](https://www.deepseek.com/)**
+
+> **This promt has been patched in ChatGPT, but not in DeepSeek**
 
 <hr>
 
